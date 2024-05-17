@@ -1,0 +1,9 @@
+name: CA7
+
+conda_env: conda.yaml
+
+entry_points:
+  process_data:
+    command: "python process_data.py"
+  train_models:
+    command: "python train_models.py"
