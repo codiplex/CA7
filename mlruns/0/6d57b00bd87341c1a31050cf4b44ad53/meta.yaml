@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Study/FAST/SEMESTER%2008/MLOPS/CA7%20New/CA7/mlruns/0/6d57b00bd87341c1a31050cf4b44ad53/artifacts
+end_time: 1715965448498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d57b00bd87341c1a31050cf4b44ad53
+run_name: Support_Vector_Machine
+run_uuid: 6d57b00bd87341c1a31050cf4b44ad53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715965446864
+status: 3
+tags: []
+user_id: Shayan

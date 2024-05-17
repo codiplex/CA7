@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Study/FAST/SEMESTER%2008/MLOPS/CA7%20New/CA7/mlruns/0/c7059573d0cc4b12aabf31d05bb5079c/artifacts
+end_time: 1715965282413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7059573d0cc4b12aabf31d05bb5079c
+run_name: Gradient_Boosting
+run_uuid: c7059573d0cc4b12aabf31d05bb5079c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715965280743
+status: 3
+tags: []
+user_id: Shayan

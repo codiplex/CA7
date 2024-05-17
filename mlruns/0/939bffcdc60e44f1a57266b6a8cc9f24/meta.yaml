@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Study/FAST/SEMESTER%2008/MLOPS/CA7%20New/CA7/mlruns/0/939bffcdc60e44f1a57266b6a8cc9f24/artifacts
+end_time: 1715965280738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 939bffcdc60e44f1a57266b6a8cc9f24
+run_name: Random_Forest
+run_uuid: 939bffcdc60e44f1a57266b6a8cc9f24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715965278984
+status: 3
+tags: []
+user_id: Shayan

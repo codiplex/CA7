@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Study/FAST/SEMESTER%2008/MLOPS/CA7%20New/CA7/mlruns/0/8088815118034c7a971e75c41b027897/artifacts
+end_time: 1715965278979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8088815118034c7a971e75c41b027897
+run_name: Decision_Tree
+run_uuid: 8088815118034c7a971e75c41b027897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715965276158
+status: 3
+tags: []
+user_id: Shayan

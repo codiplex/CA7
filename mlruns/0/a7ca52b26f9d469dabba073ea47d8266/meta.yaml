@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Study/FAST/SEMESTER%2008/MLOPS/CA7%20New/CA7/mlruns/0/a7ca52b26f9d469dabba073ea47d8266/artifacts
+end_time: 1715965453434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7ca52b26f9d469dabba073ea47d8266
+run_name: Neural_Network
+run_uuid: a7ca52b26f9d469dabba073ea47d8266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715965449829
+status: 3
+tags: []
+user_id: Shayan
